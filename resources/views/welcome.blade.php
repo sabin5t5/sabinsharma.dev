@@ -463,7 +463,7 @@
                                 <!-- <a class="pull-left" href="#"><img class="media-object" src="images\logo.png" height="64" width="64"></a> -->
                                 <div class="media-body">
                                     <h2 class="media-heading">Parking Management System</h2>
-                                    <p class="lead">Simple and sweet Application usign C Programming Language .
+                                    <p class="lead">Simple and sweet application usign C Programming Language .
                                         <i>(As a Coder)</i>
                                     </p>
                                 </div>
@@ -472,7 +472,7 @@
                                 <!-- <a class="pull-left" href="#"><img class="media-object" src="images\logo.png" height="64" width="64"></a> -->
                                 <div class="media-body">
                                     <h2 class="media-heading">School Management System</h2>
-                                    <p class="lead">Desktop Application using VB,NET and SQLserver .
+                                    <p class="lead">Desktop Application using VB.NET and SQLserver .
                                         <i>&nbsp;(As a Coder and Designer)</i>
                                     </p>
                                 </div>
@@ -480,8 +480,8 @@
                             <li class="media">
                                 <!-- <a class="pull-left" href="#"><img class="media-object" src="images\logo.png" height="64" width="64"></a> -->
                                 <div class="media-body">
-                                    <h2 class="media-heading">Clz-e Learning</h2>
-                                    <p class="lead">College E- Learning Web Application Using PHP/MYQL.
+                                    <h2 class="media-heading">Clz E-Learning</h2>
+                                    <p class="lead">College E-Learning Web Application Using PHP/MYQL.
                                         <i>(As a Coder and Designer)</i>
                                      </p>
                                 </div>
